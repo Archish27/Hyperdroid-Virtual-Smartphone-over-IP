@@ -17,6 +17,8 @@ A cloudlet can be viewed as a data center in a box, it is self-managing requirin
 
 ### System Architecture
 
+![Hyperdroid - System Architecture Diagram](/Architectural%20Diagram.png)
+
 The idea of project is leveraging the massive processing power of the cloud for complex computations of smartphones. Linux based host machine runs multiple Virtual Machines, each Virtual Machine can only be engaged with a single user at a time. Firebase is used to store user’s as well as VM’s data. 
 Detailed description of major components of architecture is as follows: 
 
@@ -43,3 +45,5 @@ button to access the VNC viewer. VNC Viewer is used interact with the system.
 algorithms. Each algorithm’s execution time would be calculated for their respective worst-case input. System evaluation is based on comparative study and analysis of the scores of the system and various smartphone models.
 
 **2. Building Benchmarking II Application:** A special benchmarking application called “Hyperdroid Benchmark II - Image Stitching” is developed using Android Studio to get performance score of various smartphone models and the system itself. Since, previous benchmarking application couldn't exploit advantages of multiple processing cores this method is developed for fair evaluation. The designed application runs on multi-core processor to stitch images to form a single panoramic image. The evaluation parameter for this test is response time measures in milliseconds of benchmark 2 app running on Android x86 OS in the cloud looks on client device and
+
+<img src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" height="50" class="center">
