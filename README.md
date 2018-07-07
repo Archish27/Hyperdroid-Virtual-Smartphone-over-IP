@@ -46,4 +46,4 @@ algorithms. Each algorithm’s execution time would be calculated for their resp
 
 **2. Building Benchmarking II Application:** A special benchmarking application called “Hyperdroid Benchmark II - Image Stitching” is developed using Android Studio to get performance score of various smartphone models and the system itself. Since, previous benchmarking application couldn't exploit advantages of multiple processing cores this method is developed for fair evaluation. The designed application runs on multi-core processor to stitch images to form a single panoramic image. The evaluation parameter for this test is response time measures in milliseconds of benchmark 2 app running on Android x86 OS in the cloud looks on client device and
 
-<img src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" height="50" class="center">
+[<img src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" height="50" class="center" l>](https://play.google.com/store/apps/details?id=com.hyperdroidclient)
