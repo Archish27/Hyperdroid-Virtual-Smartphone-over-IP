@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-tr/values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 205,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/home/archish/.android/build-cache/ce5f7e0521e431b2892f4961d0f9e893f87dbc11/output/res/values-tr/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 205,
+                        "endOffset": 490
+                    }
+                }
+            }
+        ]
+    }
+]

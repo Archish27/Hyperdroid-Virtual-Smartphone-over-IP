@@ -1,0 +1,98 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="PrimaryText" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:alpha">0.87</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
+        <!--<item name="android:textAllCaps">true</item>-->
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+
+    <style name="SecondaryText" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+
+    <style name="TertiaryText" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:alpha">0.27</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+    <style name="BaseButton" parent="Widget.AppCompat.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/button_state</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+    <style name="BaseAccentButton" parent="Widget.AppCompat.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/button_state</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+    <style name="BaseRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:alpha">0.86</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+    <style name="BaseCheckbox" parent="Widget.AppCompat.CompoundButton.CheckBox">
+
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+    <style name="SecondaryButton" parent="Widget.AppCompat.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+
+    <style name="BaseEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">14sp</item>
+        <item name="font">@string/font_name_montserrat</item>
+    </style>
+</resources>

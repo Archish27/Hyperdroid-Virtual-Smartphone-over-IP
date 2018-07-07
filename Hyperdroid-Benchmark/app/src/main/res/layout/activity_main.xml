@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hyperdoid.hyperdroidbenchmark.MainActivity"
+    android:weightSum="10"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/avlbtn"
+            android:layout_width="132dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="AVL Test" />
+        <TextView
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="8dp"
+            android:id="@+id/avltb"
+            android:layout_weight="1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="N/A"
+            android:textSize="22sp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/srtbtn"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Sorting Test" />
+        <TextView
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="8dp"
+            android:id="@+id/srttb"
+            android:layout_weight="1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="N/A"
+            android:textSize="22sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/expbtn"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="High Exp Test" />
+        <TextView
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="8dp"
+            android:id="@+id/exptb"
+            android:layout_weight="1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="N/A"
+            android:textSize="22sp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/factbtn"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Factorial Test" />
+        <TextView
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="8dp"
+            android:id="@+id/facttb"
+            android:layout_weight="1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="N/A"
+            android:textSize="22sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/nqbtn"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="NQueens Test" />
+        <TextView
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="8dp"
+            android:id="@+id/nqtb"
+            android:layout_weight="1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="N/A"
+            android:textSize="22sp"/>
+    </LinearLayout>
+
+</LinearLayout>

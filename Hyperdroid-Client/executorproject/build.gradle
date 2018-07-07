@@ -1,0 +1,57 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        flatDir {
+            dirs 'libs'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.3'
+    }
+}
+
+apply plugin: 'com.android.application'
+repositories {
+	mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    androidTestCompile fileTree(dir: 'libs', include: '*.jar')
+    androidTestCompile(name:'ExecutorLibrary', ext:'aar')
+}
+
+android {
+    compileSdkVersion 'android-21'
+    buildToolsVersion '27.0.3'
+
+    signingConfigs {
+       debug {
+
+       }
+    }
+    android {
+        defaultConfig {
+            minSdkVersion 15
+        }
+
+        lintOptions {
+            abortOnError false
+        }
+        sourceSets
+                {
+                    androidTest
+                            {
+                                res.srcDirs = ['res']
+                                assets.srcDirs = ['assets']
+                            }
+                }
+    }
+    buildTypes {
+        release {
+            proguardFile getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+}

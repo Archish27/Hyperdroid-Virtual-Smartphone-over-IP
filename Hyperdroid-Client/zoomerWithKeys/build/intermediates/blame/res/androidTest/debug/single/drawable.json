@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_down_normal.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_down_normal.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_down_disabled_focused.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_down_disabled_focused.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_up_disabled_focused.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_down_pressed.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_down_pressed.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_up_disabled.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_up_disabled.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_down.xml",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_down.xml"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_down_selected.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_down_selected.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_up_selected.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_up_selected.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_up.xml",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_up.xml"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_up_normal.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_up_normal.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_up_pressed.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_up_pressed.9.png"
+    },
+    {
+        "merged": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_down_disabled.9.png",
+        "source": "/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/intermediates/bundles/debug/res/drawable/btn_zoom_down_disabled.9.png"
+    }
+]

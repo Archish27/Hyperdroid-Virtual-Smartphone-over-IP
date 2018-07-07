@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "377399167930",
+    "firebase_url": "https://hyperdroid-15ace.firebaseio.com",
+    "project_id": "hyperdroid-15ace",
+    "storage_bucket": "hyperdroid-15ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377399167930:android:ab571a4d78e8d9cd",
+        "android_client_info": {
+          "package_name": "com.example.nikhil.hyperdroid_backgroundservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377399167930-1hvou86395gt0a2cgf2pm40dt9n8hgq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikhil.hyperdroid_backgroundservices",
+            "certificate_hash": "bbc3d3b33f8a5c97b77176c797207d6fb6862159"
+          }
+        },
+        {
+          "client_id": "377399167930-v49op89css5so7rbhhfttn27lp4qpif7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMu9rkkGyrUg0ZURFz84gdNK4cPaBgL7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377399167930-v49op89css5so7rbhhfttn27lp4qpif7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377399167930:android:fc69dc17467d54a8",
+        "android_client_info": {
+          "package_name": "com.hyperdroidclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377399167930-38hnibc9r84fvcmkppbu3hmn9844o0p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyperdroidclient",
+            "certificate_hash": "bbc3d3b33f8a5c97b77176c797207d6fb6862159"
+          }
+        },
+        {
+          "client_id": "377399167930-v49op89css5so7rbhhfttn27lp4qpif7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMu9rkkGyrUg0ZURFz84gdNK4cPaBgL7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377399167930-v49op89css5so7rbhhfttn27lp4qpif7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/src/main/assets"/><source path="/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/archish/Desktop/hyperdroid/Hyperdroid-Client/zoomerWithKeys/src/release/assets"/></dataSet></merger>
